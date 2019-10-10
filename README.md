@@ -1,3 +1,5 @@
+## LDA for topic categorization of NIPS machine learning conference
+
 Modelling of data in topics. As input data, papers from the NIPS (Neural
 Information Processing Systems) conference will be used. NIPS is a machine learning conference.
 Data can be downloaded from here:
